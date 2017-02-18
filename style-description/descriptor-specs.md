@@ -6,10 +6,10 @@ Specs for specific `style descriptors`.
 
 Each spec is required to have
 
-|Field|Type|What and Why|
-|:-|:-|:-|
-|`type`|String|ID of a [supported descriptor](#list-of-descriptor-types)|
-|`values`|Array or Object|Style descriptor expected definition|
+| Field | Type | What and Why |
+| :--- | :--- | :--- |
+| `type` | String | ID of a [supported descriptor](#list-of-descriptor-types) |
+| `values` | Array or Object | Style descriptor expected definition |
 
 Optionally:
 
@@ -29,10 +29,10 @@ Optionally:
 
 Each `value` object or `global` can use a handful of common fields, which Honey can use to interpret your style description better.
 
-|Field|Value|Type|
-|:-|:-|:-|
-|`comment`|describe the value|String|
-|`group`|group this value by a group name|String|
+| Field | Value | Type |
+| :--- | :--- | :--- |
+| `comment` | describe the value | String |
+| `group` | group this value by a group name | String | 
 
 ## List of descriptor types
 
