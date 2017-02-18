@@ -16,7 +16,7 @@
 ### 2. Expected Definition
 
 | Field | What and Why | Expected Values | Type | Required |
-| :- | :- | :- | :- | :- |
+| :--- | :--- | :--- | :--- | :--- |
 |`name`|The name of palette colour|*|String|Yes|
 |`value`|The value of the palette colour|*|String|Yes|
 
